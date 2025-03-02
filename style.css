@@ -2,9 +2,13 @@
     margin: 0%;
     padding: 0%;
 }
+
+body{
+    background-color: antiquewhite;
+}
 nav{
-    background-color: black;
-    color: white;
+    background-color: rgb(230, 112, 112);
+    color: rgb(12, 10, 10);
     padding: 10px;
 }
 li,h1,ul{
@@ -15,7 +19,7 @@ ul{
     margin-left: 60%;
 }
 li{
-    color: gray;
+    color: rgb(14, 7, 7);
     cursor: pointer;
 }
 
@@ -36,7 +40,7 @@ img{
 }
 
 .box{
-    border-color: black;
+    border-color: rgb(145, 139, 139);
     border-width: 2px;
     border-style: solid;
     display: inline-block;
@@ -46,7 +50,7 @@ img{
     
 }
 .box:hover{
-    background-color: black;
+    background-color: rgb(182, 78, 78);
     color: white;
 }
 .Products{
@@ -58,7 +62,7 @@ img{
     padding: 20px;
 }
 .contact{
-    background-color: black;
+    background-color: rgb(218, 115, 115);
     color: white;
     text-align: center;
     padding: 40px;

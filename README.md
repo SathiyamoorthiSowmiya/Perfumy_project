@@ -7,12 +7,12 @@
 👉 Perfumy Live Demo (https://perfumy-project.netlify.app/)
 
 ## Features ✨
-🏠 Home Page with Navigation Bar
-🔍 Search Bar to Find Perfumes Quickly
-🛍️ Product Display Section with Images and Descriptions
-📖 About Us Section to Share Brand Story
-📞 Contact Section for Customer Queries
-💻 Responsive Design for All Devices
+- 🏠 Home Page with Navigation Bar
+- 🔍 Search Bar to Find Perfumes Quickly
+- 🛍️ Product Display Section with Images and Descriptions
+- 📖 About Us Section to Share Brand Story
+- 📞 Contact Section for Customer Queries
+- 💻 Responsive Design for All Devices
 
 ## Technologies Used 🛠️
 HTML - Structure and Content

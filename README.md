@@ -15,8 +15,8 @@
 - 💻 Responsive Design for All Devices
 
 ## Technologies Used 🛠️
-HTML - Structure and Content
-CSS - Styling and Layout
+- HTML - Structure and Content
+- CSS - Styling and Layout
 
 ## Usage 🚀
 - Clone the repository to your local machine.
